@@ -1,11 +1,13 @@
 import Header from "./Header"
+import Juegos from "./Juegos"
 
 function App() {
   return (
     <>
       <Header />
       <main>
-        <h1>Mirar datos</h1> 
+        <h1>Juegos de PlayStation</h1> 
+        <Juegos />
       </main>
     </>
   )
