@@ -7,7 +7,7 @@ function App() {
       <Header />
       <main>
         <h1>Juegos de PlayStation</h1> 
-        <Juegos />
+        
       </main>
     </>
   )
