@@ -1,5 +1,5 @@
-import Header from "./Header"
-import Juegos from "./Juegos"
+import CuadriculaJuego from "./CuadriculasJuesgos"
+import Header from "./header/Header"
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <Header />
       <main>
         <h1>Juegos de PlayStation</h1> 
-        
+        <CuadriculaJuego />
       </main>
     </>
   )
